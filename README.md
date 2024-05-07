@@ -1,6 +1,6 @@
 # Group 15 - Compiler Design Project
-Language: Python
-Done By:
-Animesh Kumar - 106121013
-K Roshan - 106121067
-Sidharth Kumar Singh - 106121123
+Language: Python\n
+Done By:\n
+Animesh Kumar - 106121013\n
+K Roshan - 106121067\n
+Sidharth Kumar Singh - 106121123\n
